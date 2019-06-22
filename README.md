@@ -21,4 +21,4 @@ After downloading Synthwave.xml, copy it to the following directory:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
