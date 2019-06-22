@@ -1,5 +1,7 @@
 # synthwave-notepad-plusplus
-This is a synthwave-inspired theme for Notepad++, based on https://github.com/robb0wen/synthwave-vscode
+This is a synthwave-inspired theme for Notepad++. If you don't know what that is, [look no further](https://synthspiria.com/en/everything-about-synthwave/).
+
+This theme is based on https://github.com/robb0wen/synthwave-vscode, but without the cool glowing effects.
 
 
 ### Prerequisites
@@ -21,4 +23,4 @@ After downloading Synthwave.xml, copy it to the following directory:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
