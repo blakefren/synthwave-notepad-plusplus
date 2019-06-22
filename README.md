@@ -14,13 +14,10 @@ After downloading Synthwave.xml, copy it to the following directory:
 %APPDATA%\Notepad++\themes
 ```
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-
 ## Authors
 
 * **Blake French**
-* Acknoledgement to Robb Owen for his Synthwave '84 theme for Visual Studio Code that I based this on.
+* Acknoledgement to **Robb Owen** for his Synthwave '84 theme for Visual Studio Code that I based this on
 
 ## License
 
